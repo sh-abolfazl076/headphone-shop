@@ -1,0 +1,22 @@
+
+
+*{
+
+	font-size:16px;
+    direction: rtl;
+
+}
+body{
+
+
+	box-sizing: border-box;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+}
+/*@font-face {*/
+/*	font-family:iron:*/
+/*	src :url("../font/iron");*/
+/*}*/
